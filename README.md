@@ -2,6 +2,8 @@
 
 This repo exists only to store a minimal test case, it doesn't do anything except describe how I arrived at my confusion.
 
+Here is the confusion: https://stackoverflow.com/questions/59339997/why-wont-mysql-client-connect-to-the-gcp-cloud-sql-proxy-via-a-docker-forwarded
+
 ## Setup
 
 Clone this repo, then run this, (you'll need to substitute your own GCP project and a cloud sql instance that already exists)
